@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bb913f5-f23b-4bf3-8851-ad1d45fcceaf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Less File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PuvdpBaihc0Bp63sdPXMZnX1Tm" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sait-portgolio\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sait-portgolio\images" />
+      <recent name="E:\sait-portgolio" />
+      <recent name="E:\sait-portgolio\xd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/sait-portgolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb913f5-f23b-4bf3-8851-ad1d45fcceaf" name="Default Changelist" comment="" />
+      <created>1566736885054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566736885054</updated>
+      <workItem from="1566736886445" duration="701000" />
+      <workItem from="1566798115903" duration="4854000" />
+      <workItem from="1566887702799" duration="5768000" />
+      <workItem from="1566896315160" duration="10903000" />
+      <workItem from="1566977232802" duration="16066000" />
+      <workItem from="1567055861601" duration="2016000" />
+      <workItem from="1567064240026" duration="7203000" />
+      <workItem from="1567141689095" duration="17261000" />
+      <workItem from="1567395001534" duration="618000" />
+      <workItem from="1567443199145" duration="2366000" />
+      <workItem from="1567485966067" duration="1469000" />
+      <workItem from="1567520029061" duration="4606000" />
+      <workItem from="1567571477432" duration="1284000" />
+      <workItem from="1567703783944" duration="1127000" />
+      <workItem from="1568523650105" duration="603000" />
+      <workItem from="1568554355070" duration="2081000" />
+      <workItem from="1568565783337" duration="597000" />
+      <workItem from="1568610762380" duration="598000" />
+      <workItem from="1568700272232" duration="2905000" />
+      <workItem from="1568721194930" duration="4352000" />
+      <workItem from="1568778814330" duration="2016000" />
+      <workItem from="1568869925468" duration="8996000" />
+      <workItem from="1568957296613" duration="22446000" />
+      <workItem from="1569043525363" duration="6239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
